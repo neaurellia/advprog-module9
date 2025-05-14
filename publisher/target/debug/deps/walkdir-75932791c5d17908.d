@@ -1,0 +1,10 @@
+C:\Users\Catherine Aurellia\uni\semester_4\AdvPro\tutorial9\advprog-module9\publisher\target\debug\deps\libwalkdir-75932791c5d17908.rmeta: C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\walkdir-2.5.0\src\lib.rs C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\walkdir-2.5.0\src\dent.rs C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\walkdir-2.5.0\src\error.rs C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\walkdir-2.5.0\src\util.rs
+
+C:\Users\Catherine Aurellia\uni\semester_4\AdvPro\tutorial9\advprog-module9\publisher\target\debug\deps\libwalkdir-75932791c5d17908.rlib: C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\walkdir-2.5.0\src\lib.rs C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\walkdir-2.5.0\src\dent.rs C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\walkdir-2.5.0\src\error.rs C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\walkdir-2.5.0\src\util.rs
+
+C:\Users\Catherine Aurellia\uni\semester_4\AdvPro\tutorial9\advprog-module9\publisher\target\debug\deps\walkdir-75932791c5d17908.d: C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\walkdir-2.5.0\src\lib.rs C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\walkdir-2.5.0\src\dent.rs C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\walkdir-2.5.0\src\error.rs C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\walkdir-2.5.0\src\util.rs
+
+C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\walkdir-2.5.0\src\lib.rs:
+C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\walkdir-2.5.0\src\dent.rs:
+C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\walkdir-2.5.0\src\error.rs:
+C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\walkdir-2.5.0\src\util.rs:
