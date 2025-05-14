@@ -1,0 +1,1 @@
+C:\Users\Catherine\ Aurellia\uni\semester_4\AdvPro\tutorial9\advprog-module9\subscriber\target\debug\subscriber.exe: C:\Users\Catherine\ Aurellia\uni\semester_4\AdvPro\tutorial9\advprog-module9\subscriber\src\main.rs
