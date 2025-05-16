@@ -1,0 +1,10 @@
+C:\Users\Catherine Aurellia\uni\semester_4\AdvPro\tutorial9\advprog-module9\subscriber\target\debug\deps\libautocfg-b47ffd5a0f230f13.rmeta: C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\autocfg-1.4.0\src\lib.rs C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\autocfg-1.4.0\src\error.rs C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\autocfg-1.4.0\src\rustc.rs C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\autocfg-1.4.0\src\version.rs
+
+C:\Users\Catherine Aurellia\uni\semester_4\AdvPro\tutorial9\advprog-module9\subscriber\target\debug\deps\libautocfg-b47ffd5a0f230f13.rlib: C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\autocfg-1.4.0\src\lib.rs C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\autocfg-1.4.0\src\error.rs C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\autocfg-1.4.0\src\rustc.rs C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\autocfg-1.4.0\src\version.rs
+
+C:\Users\Catherine Aurellia\uni\semester_4\AdvPro\tutorial9\advprog-module9\subscriber\target\debug\deps\autocfg-b47ffd5a0f230f13.d: C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\autocfg-1.4.0\src\lib.rs C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\autocfg-1.4.0\src\error.rs C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\autocfg-1.4.0\src\rustc.rs C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\autocfg-1.4.0\src\version.rs
+
+C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\autocfg-1.4.0\src\lib.rs:
+C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\autocfg-1.4.0\src\error.rs:
+C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\autocfg-1.4.0\src\rustc.rs:
+C:\Users\Catherine\ Aurellia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\autocfg-1.4.0\src\version.rs:
